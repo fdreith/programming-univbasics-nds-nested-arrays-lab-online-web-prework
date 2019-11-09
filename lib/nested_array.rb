@@ -31,6 +31,8 @@ def array_literal_matrix
   # alphabetically by the first character.
   
   array_literal_matrix = [
+    ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"]
+    ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
     ]
 end
 
